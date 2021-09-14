@@ -1,0 +1,13 @@
+.app-page{
+    display: flex;
+    
+}
+@media (max-width:750px) {
+    .sidebar{
+        display: none;
+    }
+    .header-left, .header-icons{
+        display: none;
+    }
+    
+}

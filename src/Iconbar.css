@@ -1,0 +1,26 @@
+.iconbars{
+    display: flex;
+    padding: 5px;
+    border-bottom: 1px solid #eff2f5;
+
+}
+.icon{
+    display: flex;
+    flex: 1;
+    margin: 10px 5px;
+    
+  
+}
+.icon p{
+    /* outline: none;
+    border: none;
+   
+    flex: 1; */
+    border-radius: 200px;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px 25px;
+    border: 1px  solid rgba(119, 106, 106, 0);
+    background-color:rgba(219, 213, 213, 0.726);
+    
+}

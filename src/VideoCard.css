@@ -1,0 +1,24 @@
+.videoCard{
+    width: 100px;
+    margin-bottom: 40px;
+    
+
+}
+.videoCard-thumbnail{
+    height: 150px;
+    width: 250px;
+    
+}
+.videoCard-info{
+    display: flex;
+    /* margin-top: 5px 10px;
+    padding: 5px; */
+    line-height: 2px;
+    margin: 10px 0;
+
+}
+.videoCard-text{
+    margin-left: 0 6px;
+   align-items: inherit;
+   padding: 0 10px;
+}
