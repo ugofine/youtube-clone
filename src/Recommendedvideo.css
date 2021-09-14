@@ -20,7 +20,25 @@
    
 }
 .card{
-    width: 300px;
+    width: 100px;
     justify-content: space-between;
+    padding: 3px;
+    align-items: space-between;
   
+}
+
+
+@media(max-width: 780px){
+    .recommendedvideos{
+        width: 50%;
+        padding: 5px;
+        margin-left: 5px;
+    }
+    /* .post-icons p{
+        margin-left: 5px;
+    }
+    .post-icons{
+        padding: 5px;
+        
+    } */
 }

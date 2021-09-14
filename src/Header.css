@@ -61,4 +61,18 @@
     /* padding: 0 30px; */
    
 }
+
+@media (max-width:750px) {
+    .header-left{
+        display: none;
+    }
+    .header-input{
+        display: none;
+    }
+    .header{
+        width: 80%;
+        justify-content: space-around;
+    }
+    
+}
  

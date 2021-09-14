@@ -55,6 +55,8 @@ const Recommendedvideo = () => {
 
               </div>
 
+              <div className="recommendedvideos-videos">
+
               <div className="video-row">
                 <VideoCard className="card"
                 title= "How to become a React Developer"
@@ -92,6 +94,9 @@ const Recommendedvideo = () => {
                 Image= {img1}
                 />
               </div>
+              </div>
+
+              <div className="recommendedvideos-videos">
 
               <div className="video-row">
                 <VideoCard className="card"
@@ -129,6 +134,7 @@ const Recommendedvideo = () => {
                   channel=" Debbie Ogu"
                   Image= {img4}
                   />
+               </div>
                </div>
 
             </div>

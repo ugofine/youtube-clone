@@ -22,3 +22,10 @@
    align-items: inherit;
    padding: 0 10px;
 }
+@media(max-width:650px){
+    .VideoCard{
+        padding: 20px 10px;
+        width: 40%;
+    }
+
+}
